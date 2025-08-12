@@ -1,2 +1,2 @@
-# books-review-backend
-Books review backend
+# books-review-frontend
+Books review frontend
